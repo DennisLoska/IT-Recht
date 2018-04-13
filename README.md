@@ -48,7 +48,6 @@ _Datum: 13.04.2018_
 
 - je nach Produkt (Hardware oder Software) unterschiedlicher Inhalt
 - bei Hardware z.B. **keine** Nutzungsbedingungen!
-
 - Kündigungsfristen bei Software
 
 ## Verträge
