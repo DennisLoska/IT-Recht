@@ -21,7 +21,8 @@ _Datum: 13.04.2018_
 
 ## Vorvertragliche Phase
 
-- vertragliche Vertrauensgrundlage mit Kunden schaffen -> Schadensersatz
+- vertragliche Vertrauensgrundlage mit Kunden schaffen -> Schadensersatz 
+    (vorvertragliche Gespräche - soweit Versprechen realistisch erscheinen, bilden Vertrauen und können als Vertragserfüllung betrachtet      werden – schriftlich zwar nicht enthalten, jedoch kann da auch Schadensersatz erklagt werden))
 - juristische IST-Analyse
   - Dauerschuldvertrag (fortlaufend): z.B. Mietvertrag
   - Welche Hardware _(Wartung)_ und Software _(Pflege)_ liegt beim Kunden vor
@@ -37,6 +38,12 @@ _Datum: 13.04.2018_
 
 - extra Wünsche = mehr Kosten + Zeit -> in Vertrag einbinden
 - zu Beginn neben vereinbarter Pauschale + Puffer auch Stundenpreise berechnen für besagte Extrawünsche/Mehraufwand
+-Fehler:  
+    -Projektvertragsfehler (zB. Schadens- /Risikomanagement Flughafen Schönefeld -Verträge meist nur schwer 1:1 übertrag- bzw.                realisierbar!!! - Prüfen von Alternativen bzw. Extrawünschen)    
+    -ggf. Sollte outgesourced werden, wenn Wünsche nicht erfüllt werden -> mehr Zeit = mehr Leistung  
+    -im Lasten- und Pflichtenheft muss klar gemacht werden, was möglich ist  
+    -fehlendes Änderungsmanagement: zusätzliche Wünsche, die sich im Laufe des Projektes entwickeln, problematisch in Preisbestimmung        (Zusatzleistung sollten nach Stundenpreis berechnet werden (ggf. Auch Abrechnungsmodi... z.B. 6-Minuten-Takt)) 
+
 
 ## AGB's
 
