@@ -79,9 +79,11 @@ _Datum: 13.04.2018_
 4. Rechtssprechung
 
 ##### Außerordentliche Kündigung/Kündigung aus wichtigem Grund
--"Kündigung aus wichtigem Grund"(Paragraph 314, gesetzlich festgelegt)
-    -langfristige Vertragsbindung (zB. 10 Jahre) zwar vorteilhaft, aber Nachteile : an günstigeren Preisen /Wettbewerben lässt sich          nicht teilnehmen!
-    -muss es bei Dauerschuldverhältnis immer geben > fortlaufend andauernd, zB. Nutzungsgebühren etc.
-    -wird den Parteien entzogen (Gefahr von Monopolbildung) > Gesetz enthebt aus unvorteilhaftem Verhältnis
-
+-"Kündigung aus wichtigem Grund"(Paragraph 314 BGB, gesetzlich festgelegt)
+<br>-langfristige Vertragsbindung (zB. 10 Jahre) zwar vorteilhaft, aber Nachteile : an günstigeren Preisen /Wettbewerben lässt sich          nicht teilnehmen!
+    <br>-muss es bei Dauerschuldverhältnis immer geben > fortlaufend andauernd, zB. Nutzungsgebühren etc.
+    <br>-wird den Parteien entzogen (Gefahr von Monopolbildung) > Gesetz enthebt aus unvorteilhaftem Verhältnis
+    <br>-Gründe liegen vor, wenn Kündigendem Vertragsbeendigung nicht zugetraut werden kann(dabei werden Interessen beider Parteien gleich gewichtet)
+    <br>-Herausfinden von "wichtigen Kündigungsgründen: liegt dann vor, wenn der Grund aus Sphäre anderer Partei zugrunde liegt" > also wenn die Schuld bei der anderen Partei liegt (zB. wenn Netzwerkanbieter technischen Zugang nicht ermöglichen kann (auch zeitweise))
+    <br>-ggf. sollten sich Randfälle vertraglich festgehalten werden (zB. wenn nicht bewiesen werden kann, dann Anbieter in 6 Monaten nicht an vorgegebenem Ort Netzwerk zur Verfügung stellen kann)
 
