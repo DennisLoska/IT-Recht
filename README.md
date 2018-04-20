@@ -7,6 +7,7 @@ _Datum: 13.04.2018_
 
 - https://bibliothek.htw-berlin.de/literatur-suchen/e-books/#c13551
 - https://beck-online.beck.de/Home (von Eduroam aus kostenfrei zugänglich)
+- https://beegit.com/markdown-cheat-sheet Markdown cheatsheet
 - Computer & Recht (Zeitschrift vom Otto Schmidt Verlag)
 - IT-Rechtsberater (Zeitschrift)
 - Zeitschriften gewähren Aktualität
@@ -22,7 +23,9 @@ _Datum: 13.04.2018_
 ## Vorvertragliche Phase
 
 - vertragliche Vertrauensgrundlage mit Kunden schaffen -> Schadensersatz 
-    <li>(vorvertragliche Gespräche - soweit Versprechen realistisch erscheinen, bilden Vertrauen und können als Vertragserfüllung betrachtet werden – schriftlich zwar nicht enthalten, jedoch kann da auch Schadensersatz erklagt werden)) </li>
+  - vorvertragliche Gespräche
+  - soweit Versprechen realistisch erscheinen, bilden Vertrauen und können als Vertragserfüllung betrachtet werden
+  - schriftlich zwar nicht enthalten, jedoch kann da auch Schadensersatz erklagt werden
 - juristische IST-Analyse
   - Dauerschuldvertrag (fortlaufend): z.B. Mietvertrag
   - Welche Hardware _(Wartung)_ und Software _(Pflege)_ liegt beim Kunden vor
@@ -59,8 +62,9 @@ _Datum: 13.04.2018_
 - Kündigungsfristen bei Software
 
 ## Verträge
--Projektverträge
--Aufhebungsverträge
+
+- Projektverträge
+- Aufhebungsverträge
 
 #### Kündigung
 
@@ -81,14 +85,20 @@ _Datum: 13.04.2018_
 4. Rechtssprechung
 
 ##### Außerordentliche Kündigung/Kündigung aus wichtigem Grund
--"Kündigung aus wichtigem Grund"(Paragraph 314 BGB, gesetzlich festgelegt)
-<br>-langfristige Vertragsbindung (zB. 10 Jahre) zwar vorteilhaft, aber Nachteile : an günstigeren Preisen /Wettbewerben lässt sich          nicht teilnehmen!
-    <br>-muss es bei Dauerschuldverhältnis immer geben > fortlaufend andauernd, zB. Nutzungsgebühren etc.
-    <br>-wird den Parteien entzogen (Gefahr von Monopolbildung) > Gesetz enthebt aus unvorteilhaftem Verhältnis
-    <br>-Gründe liegen vor, wenn Kündigendem Vertragsbeendigung nicht zugetraut werden kann(dabei werden Interessen beider Parteien gleich gewichtet)
-    <br>-Herausfinden von "wichtigen Kündigungsgründen: liegt dann vor, wenn der Grund aus Sphäre anderer Partei zugrunde liegt" > also wenn die Schuld bei der anderen Partei liegt (zB. wenn Netzwerkanbieter technischen Zugang nicht ermöglichen kann (auch zeitweise))
-    <br>-ggf. sollten sich Randfälle vertraglich festgehalten werden (zB. wenn nicht bewiesen werden kann, dann Anbieter in 6 Monaten nicht an vorgegebenem Ort Netzwerk zur Verfügung stellen kann) > Punkte für beide Parteien (auflösende Bedingungen könnten auch von bestimmten Personen abhängen, §313 BGB)
-    <br>-außerordentlich ist auch, wenn die Geschäftsgrundlage gestört ist, bspw. Firma brennt ab (ggf. müssen bisher entstandende Aufwendungen trotzdem erbracht werden, zB. bisherige Materialkosten, unter Berücksichtigung beider Interessen) (§313 BGB)
-   <br>-ersparte Aufwendungen (zb. Wegegeld bei Service) liegen bei 5-20%
-   <br>-ebenfalls greifend, wenn sich <u>wesentliche</u> Vertragspunkte ändern (sofern diese in den AGB/ im Vertrag als Änderungsklausel als Änderungen festgehalten sind) > <b>Beide</b> Parteien haben nach Inkrafttreten der Änderung 4 Wochen Zeit, den Vertrag nach Bekanntgabe ggf. zu beenden ("Anbieter" hätte hier sozusagen ein "Schlupfloch"!)
+
+- "Kündigung aus wichtigem Grund" (Paragraph 314 BGB, gesetzlich festgelegt)
+- langfristige Vertragsbindung (zB. 10 Jahre) zwar vorteilhaft, aber Nachteile : an günstigeren Preisen/Wettbewerben lässt sich          nicht teilnehmen!
+- muss es bei Dauerschuldverhältnis immer geben 
+> fortlaufend andauernd, zB. Nutzungsgebühren etc.
+ wird den Parteien entzogen (Gefahr von Monopolbildung) 
+> Gesetz enthebt aus unvorteilhaftem Verhältnis
+- Gründe liegen vor, wenn Kündigendem Vertragsbeendigung nicht zugetraut werden kann(dabei werden Interessen beider Parteien gleich gewichtet)
+- Herausfinden von "wichtigen Kündigungsgründen: liegt dann vor, wenn der Grund aus Sphäre anderer Partei zugrunde liegt"
+> also wenn die Schuld bei der anderen Partei liegt (zB. wenn Netzwerkanbieter technischen Zugang nicht ermöglichen kann (auch zeitweise))
+- ggf. sollten sich Randfälle vertraglich festgehalten werden (zB. wenn nicht bewiesen werden kann, dann Anbieter in 6 Monaten nicht an vorgegebenem Ort Netzwerk zur Verfügung stellen kann) 
+> Punkte für beide Parteien (auflösende Bedingungen könnten auch von bestimmten Personen abhängen, §313 BGB)
+- außerordentlich ist auch, wenn die Geschäftsgrundlage gestört ist, bspw. Firma brennt ab (ggf. müssen bisher entstandende Aufwendungen trotzdem erbracht werden, zB. bisherige Materialkosten, unter Berücksichtigung beider Interessen) (§313 BGB)
+- ersparte Aufwendungen (zb. Wegegeld bei Service) liegen bei 5-20%
+- ebenfalls greifend, wenn sich _wesentliche_ Vertragspunkte ändern (sofern diese in den AGB/ im Vertrag als Änderungsklausel als Änderungen festgehalten sind)
+> **Beide** Parteien haben nach Inkrafttreten der Änderung 4 Wochen Zeit, den Vertrag nach Bekanntgabe ggf. zu beenden ("Anbieter" hätte hier sozusagen ein "Schlupfloch"!)
 
