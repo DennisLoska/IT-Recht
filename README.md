@@ -79,4 +79,9 @@ _Datum: 13.04.2018_
 4. Rechtssprechung
 
 ##### Außerordentliche Kündigung/Kündigung aus wichtigem Grund
+-"Kündigung aus wichtigem Grund"(Paragraph 314, gesetzlich festgelegt)
+    -langfristige Vertragsbindung (zB. 10 Jahre) zwar vorteilhaft, aber Nachteile : an günstigeren Preisen /Wettbewerben lässt sich          nicht teilnehmen!
+    -muss es bei Dauerschuldverhältnis immer geben > fortlaufend andauernd, zB. Nutzungsgebühren etc.
+    -wird den Parteien entzogen (Gefahr von Monopolbildung) > Gesetz enthebt aus unvorteilhaftem Verhältnis
+
 
