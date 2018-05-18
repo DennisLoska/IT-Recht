@@ -20,7 +20,7 @@ _Datum: 13.04.2018_
 - Dozent wird Gesetze vorlegen
 - man darf selbst kein Material mitbringen
 
-## Vorvertragliche Phase
+# Vorvertragliche Phase
 
 - vertragliche Vertrauensgrundlage mit Kunden schaffen -> Schadensersatz 
   - vorvertragliche Gespräche
@@ -37,7 +37,7 @@ _Datum: 13.04.2018_
   - Vertraglich durch Geheimhaltungsvereinbarung, Strafen, Schweigepflicht
   - gewerblicher Rechtschutz (Verfahren beantragen)
 
-## Phase der Vertragsgestaltung
+# Phase der Vertragsgestaltung
 
 - extra Wünsche = mehr Kosten + Zeit -> in Vertrag einbinden
 - zu Beginn neben vereinbarter Pauschale + Puffer auch Stundenpreise berechnen für besagte Extrawünsche/Mehraufwand
@@ -49,26 +49,26 @@ _Datum: 13.04.2018_
     </ul>
 
 
-## AGB's
+# AGB's
 
 - Haftung, Kündigung, Gewährleistung, Nutzungsbedingungen
 - mindestens halbjährlich vom Anwalt prüfen lassen
 - verpflichtet AGB's zu pflegen und aktuell zu halten
 
-## Nutzungsbedingungen
+# Nutzungsbedingungen
 
 - je nach Produkt (Hardware oder Software) unterschiedlicher Inhalt
 - bei Hardware z.B. **keine** Nutzungsbedingungen!
 - Kündigungsfristen bei Software
 
-## Verträge
+# Verträge
 
 - Projektverträge
 - Aufhebungsverträge
 
-#### Kündigung
+## Kündigung
 
-##### Fristgerechte/Ordentliche Kündigung
+### Fristgerechte/Ordentliche Kündigung
 
 **"WO finde ich die Frist?"**
 
@@ -84,7 +84,7 @@ _Datum: 13.04.2018_
    - gesetzliche Kündigungsfrist (allgemein formuliert)
 4. Rechtssprechung
 
-##### Außerordentliche Kündigung/Kündigung aus wichtigem Grund
+### Außerordentliche Kündigung/Kündigung aus wichtigem Grund
 
 - "Kündigung aus wichtigem Grund" (Paragraph 314 BGB, gesetzlich festgelegt)
 - langfristige Vertragsbindung (zB. 10 Jahre) zwar vorteilhaft, aber Nachteile : an günstigeren Preisen/Wettbewerben lässt sich          nicht teilnehmen!
