@@ -110,6 +110,7 @@ _Datum: 13.04.2018_
    - durchschnittliche Sicherheit muss gewährleistet sein
 
 - **Verarbeitungsverzeichnis** bei Unternehmen erstellen und Rechtmäßigkeit prüfen
+- Artikel 6 Absatz 1f DSGVO
 
 # Verträge
 
