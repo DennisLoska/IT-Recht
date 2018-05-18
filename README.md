@@ -61,6 +61,56 @@ _Datum: 13.04.2018_
 - bei Hardware z.B. **keine** Nutzungsbedingungen!
 - Kündigungsfristen bei Software
 
+# Datenschutz - DSGVO
+
+- **Datenschutzgrundverordnung**
+- Nach außen vermitteln, dass man DSGVO/Datenschutzrechtlich-komform ist
+- für eine gute interne Struktur sorgen, die rechtmäßigen Umgang mit personenbezogenen Daten erfüllt
+- **Personenbezogene Daten** sind Daten, aus denen man die Identität einer Person schließen kann
+  - Vorname indirekt --> Geschlecht personenbezogen
+  - der Nachname nicht immer, da personenbezogene Daten wie Herkunft nicht unbedingt daraus ableitbar
+  - Telefonnummer, E-Mail etc.
+- **Grundsätze** zur Erhebeung, Verarbeitung und Nutzung personenbezogener Daten
+  1. nur rechtskonform, wenn es **Einwilligung oder rechtliche Grundlage** gibt (§4 Abs 1 Datenschutzgesetz)
+  2. **Zweckbindung** bei Erhebung der Daten. Nur gültig, wenn zu jedem Zweck die Verwendung eingewilligt wurde
+
+## Datenschutzerklärung
+
+- ab 25. Mai rechtliche Grundlage mit DSGVO (**neu**)
+- nicht mehr freiwillig
+- **§4 DSGVO: Verantwortlicher** ist, wer personenbezogene Daten erhebt
+- Verantwortlicher hat **umfangreiche** Informationspflichten gegenüber dem **Betroffenen** (dessen Daten erhoben werden)
+  - diese Informationen müssen dem Betroffenen unaufgefordert zur Verfügung gestellt werden
+- **Artikel 2 GG** - Grundsatz: Jeder darf bestimmen, was mit seinen personenbezogenen Daten passiert _(allgemienes Persönlichkeitsrecht)_
+- jede Erhebung von *+personenbezogenen Daten** ist ein **Eingriff** in das **Persönlichkeitsrecht** der betroffenen Person, daher muss immer geprüft werden, ob dieser Eingriff rechtens ist --> er ist **nur rechtens**, wenn einwilligung oder gesetzliche Grundlage vorliegt (Artikel 6 DSGVO)
+
+### Beispiel Webseite:
+
+1. Name und Kontaktdaten des Verantwortlichen und betrieblichen Datenschutzbeauftragten
+   - Wer ist Verantwortlich? --> Der die Daten erhebt und benutzt, also der Betreiber
+   - Wer ist Datenschutzbeauftrage? (Bei mehr als 9 Personen im Unternehmen, die automatisierte Systeme zur Arbeit mit Daten nutzen) (Artikel 38 DSGVO)
+2. Informieren über Erhebung und Speicherung von personenbezogenen Daten sowie Art und Zweck von deren Verwendung
+   - IP-dresse
+   - Datum und Uhrzeit
+   - Name und URL der abgerufenen Daten
+   - Referenz-URL
+   - verwendeter Browser
+3. Zweckbindung
+   - administrative Tätigkeiten
+   - Webseiten-Optimierung etc.
+4. Weitergabe der Daten an Dritte
+   - auch hierüber informieren, wenn Daten weitergegeben werden
+5. Analyse- und Tracking-Tool
+   - Informieren über Cookies
+6. Welche Rechte hat der Betroffene
+   - Artikel 15 DSGVO Auskunftsrecht, 16 Berichtigungsrecht, 17 Löschungsrecht, 18 Einschränkungsrecht, 20 personenbezogenen Daten in strukturierten maschinell lesbaren Form, 7 Abs. 3 ,77 Beschwerderecht
+   - Widerrufsrecht
+7. Datensicherheit
+   - Daten müssen sicher sein - **verschlüsselt**
+   - durchschnittliche Sicherheit muss gewährleistet sein
+
+- **Verarbeitungsverzeichnis** bei Unternehmen erstellen und Rechtmäßigkeit prüfen
+
 # Verträge
 
 - Projektverträge
