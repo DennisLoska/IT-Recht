@@ -76,7 +76,7 @@ _Datum: 13.04.2018_
    - individuelles Übereinkommen über einen gemeinsamen Vertragstext
    - jede Partei kann Ihre eigenen Interessen einbringen
 2. In die **AGB's** oder **Nutzungsbedingungen** schauen
-   - AGB: stehen für Vertrags-/Lizensrecht (§305 Abs. 1 Satz 1 BGB)
+   - AGB: stehen für Vertrags-/Lizensrecht (**§305 Abs. 1 Satz 1 BGB**)
    - Nutzungsbedingung: stehen für Urheberrecht
    - Bei AGB's kann man **NICHT** Einfluss und eigenes Interesse einbringen; Entweder man akzeptiert sie oder nicht, sonst wird es zu einem individuellem Abkommen/Vertrag
 
@@ -86,19 +86,20 @@ _Datum: 13.04.2018_
 
 ### Außerordentliche Kündigung/Kündigung aus wichtigem Grund
 
-- "Kündigung aus wichtigem Grund" (Paragraph 314 BGB, gesetzlich festgelegt)
-- langfristige Vertragsbindung (zB. 10 Jahre) zwar vorteilhaft, aber Nachteile : an günstigeren Preisen/Wettbewerben lässt sich          nicht teilnehmen!
+- "Kündigung aus wichtigem Grund" (Paragraph **314 BGB**, gesetzlich festgelegt)
+- langfristige Vertragsbindung (zB. 10 Jahre) zwar vorteilhaft, hat aber auch  **Nachteile**: an günstigeren Preisen/Wettbewerben lässt sich nicht teilnehmen!
 - muss es bei Dauerschuldverhältnis immer geben 
-> fortlaufend andauernd, zB. Nutzungsgebühren etc.
+  - fortlaufend andauernd, zB. Nutzungsgebühren etc.
  wird den Parteien entzogen (Gefahr von Monopolbildung) 
-> Gesetz enthebt aus unvorteilhaftem Verhältnis
-- Gründe liegen vor, wenn Kündigendem Vertragsbeendigung nicht zugetraut werden kann(dabei werden Interessen beider Parteien gleich gewichtet)
-- Herausfinden von "wichtigen Kündigungsgründen: liegt dann vor, wenn der Grund aus Sphäre anderer Partei zugrunde liegt"
-> also wenn die Schuld bei der anderen Partei liegt (zB. wenn Netzwerkanbieter technischen Zugang nicht ermöglichen kann (auch zeitweise))
-- ggf. sollten sich Randfälle vertraglich festgehalten werden (zB. wenn nicht bewiesen werden kann, dann Anbieter in 6 Monaten nicht an vorgegebenem Ort Netzwerk zur Verfügung stellen kann) 
-> Punkte für beide Parteien (auflösende Bedingungen könnten auch von bestimmten Personen abhängen, §313 BGB)
-- außerordentlich ist auch, wenn die Geschäftsgrundlage gestört ist, bspw. Firma brennt ab (ggf. müssen bisher entstandende Aufwendungen trotzdem erbracht werden, zB. bisherige Materialkosten, unter Berücksichtigung beider Interessen) (§313 BGB)
+  - Gesetz enthebt aus unvorteilhaftem Verhältnis
+- Gründe liegen vor, wenn Kündigendem Vertragsbeendigung nicht zugetraut werden kann (dabei werden Interessen beider Parteien gleich gewichtet)
+- Herausfinden von wichtigen Kündigungsgründen: wichtiger Grund liegt dann vor, _wenn_ der Grund aus/in Sphäre/**Verantwortungsbereich einer Partei** zugrunde liegt, also wenn die **Schuld** bei der _anderen Partei_ liegt (zB. wenn Netzwerkanbieter technischen Zugang nicht ermöglichen kann (auch zeitweise))
+- ggf. sollten sich **Grenz-/Randfälle** vertraglich festgehalten werden (zB. wenn nicht bewiesen werden kann, dass dann Anbieter in 6 Monaten nicht an vorgegebenem Ort Netzwerk zur Verfügung stellen kann) 
+- außerordentlich ist auch, wenn die **Geschäftsgrundlage gestört** ist, bspw. Firma brennt ab (ggf. müssen bisher entstandende Aufwendungen trotzdem erbracht werden, zB. bisherige Materialkosten, unter Berücksichtigung beider Interessen) (**§313 BGB**)
 - ersparte Aufwendungen (zb. Wegegeld bei Service) liegen bei 5-20%
-- ebenfalls greifend, wenn sich _wesentliche_ Vertragspunkte ändern (sofern diese in den AGB/ im Vertrag als Änderungsklausel als Änderungen festgehalten sind)
-> **Beide** Parteien haben nach Inkrafttreten der Änderung 4 Wochen Zeit, den Vertrag nach Bekanntgabe ggf. zu beenden ("Anbieter" hätte hier sozusagen ein "Schlupfloch"!)
+- wichtiger Grund liegt auch vor, wenn sich _wesentliche_ Vertragspunkte ändern (sofern diese in den AGB/ im Vertrag als **Änderungsklausel** als Änderungen festgehalten sind)
+> Punkte für beide Parteien (**auflösende Bedingungen**) können auch von bestimmten Personen abhängen, **§313 BGB**
+
+> **Beide** Parteien haben nach in Kraft treten der Änderung 4 Wochen Zeit, den Vertrag nach Bekanntgabe ggf. zu beenden ("Anbieter" hätte hier sozusagen ein "Schlupfloch"!)
+
 
