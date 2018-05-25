@@ -73,6 +73,7 @@ _Datum: 13.04.2018_
 - **Grundsätze** zur Erhebeung, Verarbeitung und Nutzung personenbezogener Daten
   1. nur rechtskonform, wenn es **Einwilligung oder rechtliche Grundlage** gibt (§4 Abs 1 Datenschutzgesetz)
   2. **Zweckbindung** bei Erhebung der Daten. Nur gültig, wenn zu jedem Zweck die Verwendung eingewilligt wurde
+  3. Ausnahme: Unternehmen mit <250 Mitarbeiter sind nicht betroffen (es sei denn, die Erhebung gehört zum Kerngeschäft des Unternehmens > ist jedoch auch schon bei Datenerhebung von Mitarbeitern der Fall)
 
 ## Datenschutzerklärung
 
@@ -110,7 +111,79 @@ _Datum: 13.04.2018_
    - durchschnittliche Sicherheit muss gewährleistet sein
 
 - **Verarbeitungsverzeichnis** bei Unternehmen erstellen und Rechtmäßigkeit prüfen
-- Artikel 6 Absatz 1f DSGVO
+    -ist auch beim Verarbeiten personenbezogener Mitarbeiterdaten anfallend
+    -alle Verarbeitungsvorgägnge mussen sich in Exceltabelle wiederspiegeln (siehe Beispiel Bitcom)
+    
+    - Artikel 6 Absatz 1f DSGVO
+    
+    1. Instrument:
+        -vertragliche Grundlagen: Art. 6 Abs. 1 a (Einwilligung von Kunden)
+            -Einwilligung muss  rechtsgemäß sein! (Art. 4, Nr. 11)
+                - rechtsgemäß, wenn freiwillig abgegeben
+                - Zweck der Erhebung
+                - Information über die Erhebung
+                > Formalia einer Einwilligung: Art. 7, 4
+                    - nicht freiwillig, wenn Betroffener genötigt wird (bspw. im Arbeitsverhältnis, wenn Mitarbeiter gezwungen wird, einzustimmen, da er sonst Nachteile hat)
+                    
+     
+     2. Instrument:
+        -rechtliche Grundlagen: Art. 6 Abs. 1 b-f
+            - b: Erfüllung eines Vertrages
+            - c: rechtliche Verpflichtung des Unternehmens
+            - d: Lebenswichtige Interessen einer Person
+            - e: Wahrnehmung einer Aufgabe der öffentlichen Interesse
+            - f: Wahrung der Interessen des Verantwortlichen / eines Dritten
+                -(sollten aber nicht denen des Betroffenen überwiegen)
+                -"Wahrung des berechtigten Interesses" > schwer definierbarer Ausdruck
+                    - Erwägungsgründe der Rechtsbestimmer der DSGVO nachbestimmen
+                    - > Was ist der Grund für die Erhebung der Datenbank?
+                    - > Soll damit geworben werden?
+                    - > ist die DB für das Erreichen des Zwecks nötig?
+                    - > ist der Eingriff ins Persönlichkeitsrecht unverhältnismäßig groß?
+                > unbestimmte Rechtsbegriffe, damit die verschiedensten zukünftlichen Lebensumstände abgedeckt werden können (juristisch übergreifend)
+             -2018 ist die Erhebung personenbezogener Daten mittlerweile etabliert > gesellschaftlich üblich
+    
+    3. Instrument:
+        -Auftragsverabreitungsvertrag: Art. 28 DSGVO
+        (auch für IT-Projekte wichtig!)
+          -Aufbau:
+            1.Bezug zum EIGENTLICHEN Vertrag
+            2.Klausel zu personenbezogenen Daten
+            3.Aufsichtsbehörde zur Auftragnehmer und Auftraggeber (bspw. Datenschutzbehörde Berlin / Sachsen)
+            4.Weisungsrecht:
+                -charakterisiert den Vertrag
+                -Anweisung/Richtlinien zu technischen Schutzmaßnahmen ($6)
+                     -Anspruch: mit den Daten, die weisungsbefugt weitergegeben werden, sollen vertraulich behandelt werden
+            5.Informationsplfichten des Auftreagnehmers($7)
+            6.Kontrollrecht des Auftraggebers (§8)
+            7.Einsatz von Subunternehmen ($9)
+                -nur mit Einstimmung mit Auftraggeber!
+            8.Anfrage und Rechte des Betroffenen(§10)
+            9.Haftung($11)
+            10.Kündigung($12)
+                    -bspw. bei Beendigung von Hauptvertrag
+                    
+        -Beispiel 1:
+            -Cloud-Verarbeitungsdienste 
+                -bspw. Google
+                -auch dort muss Auftragsverarbeitungsvertrag geschlossen werden (wird üblicherweise miterhoben)
+                
+         -Beispiel 2:
+                -Mitarbeiter der HTW
+                -Personalakte der HTW wird digitalisiert
+                -Firma wird beauftragt
+                -Mitarbeiter der Firma (Dritte) werden mit personenbezogenen Daten in Berührung gebracht
+                -Einwilligung des Mitarbeiter der HTW muss vorliegen!
+                -für Erfüllung des Arbeitsvertrages darf HTW Daten verarbeiten
+                -aber liegt die Weitergabe der Daten im Interesse der Betroffenen? > im Sinne des wirtschaftlichen Interesses der HTW
+                -Weitergabe braucht explizit eine Einwillgung
+                 > hier greift Auftragsverarbeitungsvertrag mit Auftragsnehmer 
+                    - Mitarbeiter der HTW muss über das Weitergeben der Daten seitens der HTW abgesichert sein > Firma muss Vertrag unterschreiben, sodass sie rechtlich gesehen das selbe Vertrauensverhältnis wie die HTW ggn.über dem Mitarbeiter hat > Art. 6,1 b-f! (kann sich dann auch, wie die HTW, auf die Rechtsgrundlagen beziehen) > Vetrauensverhältnis mit Subunternehmer muss gewahrt werden    
+        -ENTWEDER Einwillgung ODER rechtliche Grundlage > Einwilligung suggeriert, dass rechtliche Grundlage nicht vorhanden ist > selbst für Cookies geltend
+        -Datenschutzinformation nicht zu verwechseln mit Datenschutzeinwilligung!
+                    
+            
+                    
 
 # Verträge
 
