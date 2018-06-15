@@ -23,9 +23,13 @@ _Datum: 13.04.2018_
 # Vorvertragliche Phase
 
 - vertragliche Vertrauensgrundlage mit Kunden schaffen -> Schadensersatz 
-  - vorvertragliche Gespräche
+  - vorvertragliche Gespräche (Geheimhaltungs- und Schweigepflicht Vereinbarungen vor vorvertraglichen Gesprächen treffen im Idealfall)
+  - Alternative ist Inhalte von vorvertraglichen Gespräche in eigen AGBs packen, wenn Gesprchstermine z.B. kurzfristig und Erstellung von Vereinbarungen nicht möglich
+  - AGBs = "Spielregeln" für vorvertragliche Gespräche
+  - Hat jede Partei eigene AGBs gilt nur noch die Schnittmenge dieser AGBs (nur die Gemeinsamkeiten)
   - soweit Versprechen realistisch erscheinen, bilden Vertrauen und können als Vertragserfüllung betrachtet werden
   - schriftlich zwar nicht enthalten, jedoch kann da auch Schadensersatz erklagt werden
+  - **Zeugen** in Gespräche mitnehmen (z.B. potentielle Subunternehmer, die in Zukunft mitarbeiten werden am Vertragsbestand)
 - juristische IST-Analyse
   - Dauerschuldvertrag (fortlaufend): z.B. Mietvertrag
   - Welche Hardware _(Wartung)_ und Software _(Pflege)_ liegt beim Kunden vor
@@ -36,6 +40,15 @@ _Datum: 13.04.2018_
   - Schutz durch Gesetz
   - Vertraglich durch Geheimhaltungsvereinbarung, Strafen, Schweigepflicht
   - gewerblicher Rechtschutz (Verfahren beantragen)
+
+# Vorvertragliche Vertrauenshaftung
+
+- §311 BGB greift bei Schadensfällen
+- **Vertrauenstatbestand** durch Versprechen gegeben
+- Greift bei Dingen, von denen man ausgehen kann
+  - z.B. wenn Viren auf CD der Software sind, die man bei Software-Händler gekauft hat
+  - z.B. wenn man ein Auto kauft und kurz danach der Benzintank leer ist --> Schadensersatz durch Folgeschäden geltend machen
+- vertragliche Pflichten können schon in **vorvertraglichen Gesprächen** entstehen, wenn man diesen Versprechen Vertrauen kann und diese realistisch sind
 
 # Phase der Vertragsgestaltung
 
@@ -48,18 +61,35 @@ _Datum: 13.04.2018_
     <li>fehlendes Änderungsmanagement: zusätzliche Wünsche, die sich im Laufe des Projektes entwickeln, problematisch in Preisbestimmung        (Zusatzleistung sollten nach Stundenpreis berechnet werden (ggf. Auch Abrechnungsmodi... z.B. 6-Minuten-Takt)) </li>
     </ul>
 
-
 # AGB's
 
 - Haftung, Kündigung, Gewährleistung, Nutzungsbedingungen
 - mindestens halbjährlich vom Anwalt prüfen lassen
 - verpflichtet AGB's zu pflegen und aktuell zu halten
+- Man nutzt AGBs, um sich vor dem Gesetz besser zu stellen
+- Individualverträge werden kompakter, da nur noch die relevanten Vertragsgegenständ eim Vertrag stehen, und der Rest in die AGBs ausgelagert wird
+- wichtige Klauseln immer in einen Vertrag und nicht in die AGBs, da im Zweifel der Vertrag vor Gericht gültig ist
 
 # Nutzungsbedingungen
 
 - je nach Produkt (Hardware oder Software) unterschiedlicher Inhalt
 - bei Hardware z.B. **keine** Nutzungsbedingungen!
 - Kündigungsfristen bei Software
+
+# Geheimhaltungs- und Schweigepflichtvereinbarung
+
+- Bindet immer beide Parteien und hat für beide Vor- und Nachteile
+- Hinweis auf §18 UWG (Gesetz gegen den unlauteren Wettbewerb - Verarbeitung von Vorlagen)
+- wird auf alle Mitarbeiter, Subunternehmer usw. übertragen, die mit Vertragsverhältnis in Berührung kommen
+- Findet Verwendung im vorvertraglichen Bereich und in Gesprächen
+
+## Inhalt
+
+- Vertragsparteien
+- Definition, Benennung der geheim zu haltenden Information
+- Was ist nicht Teil der Geheimhaltung? (Stand der Technik bei Patentunterlagen / der Verpflichtete hat das Wissen bereits selbst aus anderer Quelle erlangt)
+Strafzahlungen
+- Dauer der Geheimhaltung
 
 # Datenschutz - DSGVO
 
@@ -109,86 +139,92 @@ _Datum: 13.04.2018_
 7. Datensicherheit
    - Daten müssen sicher sein - **verschlüsselt**
    - durchschnittliche Sicherheit muss gewährleistet sein
+8. Verarbeitungsverzeichnis
 
-- **Verarbeitungsverzeichnis** bei Unternehmen erstellen und Rechtmäßigkeit prüfen
-    -ist auch beim Verarbeiten personenbezogener Mitarbeiterdaten anfallend
-    -alle Verarbeitungsvorgägnge mussen sich in Exceltabelle wiederspiegeln (siehe Beispiel Bitcom)
+# Verarbeitungsverzeichnis
+
+**Verarbeitungsverzeichnis** bei Unternehmen erstellen und Rechtmäßigkeit prüfen
+- ist auch beim Verarbeiten personenbezogener Mitarbeiterdaten anfallend
+- alle Verarbeitungsvorgägnge mussen sich in Exceltabelle wiederspiegeln (siehe Beispiel Bitcom)
     
-    - Artikel 6 Absatz 1f DSGVO
+- Artikel 6 Absatz 1f DSGVO
     
     1. Instrument:
-        -vertragliche Grundlagen: Art. 6 Abs. 1 a (Einwilligung von Kunden)
-            -Einwilligung muss  rechtsgemäß sein! (Art. 4, Nr. 11)
+        - vertragliche Grundlagen: Art. 6 Abs. 1 a (Einwilligung von Kunden)
+            - Einwilligung muss  rechtsgemäß sein! (Art. 4, Nr. 11)
                 - rechtsgemäß, wenn freiwillig abgegeben
                 - Zweck der Erhebung
                 - Information über die Erhebung
                 > Formalia einer Einwilligung: Art. 7, 4
-                    - nicht freiwillig, wenn Betroffener genötigt wird (bspw. im Arbeitsverhältnis, wenn Mitarbeiter gezwungen wird, einzustimmen, da er sonst Nachteile hat)
+
+                - nicht freiwillig, wenn Betroffener genötigt wird (bspw. im Arbeitsverhältnis, wenn Mitarbeiter gezwungen wird, einzustimmen, da er sonst Nachteile hat)
                     
-     
      2. Instrument:
-        -rechtliche Grundlagen: Art. 6 Abs. 1 b-f
+        - rechtliche Grundlagen: Art. 6 Abs. 1 b-f
             - b: Erfüllung eines Vertrages
             - c: rechtliche Verpflichtung des Unternehmens
             - d: Lebenswichtige Interessen einer Person
             - e: Wahrnehmung einer Aufgabe der öffentlichen Interesse
             - f: Wahrung der Interessen des Verantwortlichen / eines Dritten
-                -(sollten aber nicht denen des Betroffenen überwiegen)
-                -"Wahrung des berechtigten Interesses" > schwer definierbarer Ausdruck
+                - (sollten aber nicht denen des Betroffenen überwiegen)
+                - "Wahrung des berechtigten Interesses" > schwer definierbarer Ausdruck
                     - Erwägungsgründe der Rechtsbestimmer der DSGVO nachbestimmen
                     - > Was ist der Grund für die Erhebung der Datenbank?
                     - > Soll damit geworben werden?
                     - > ist die DB für das Erreichen des Zwecks nötig?
                     - > ist der Eingriff ins Persönlichkeitsrecht unverhältnismäßig groß?
                 > unbestimmte Rechtsbegriffe, damit die verschiedensten zukünftlichen Lebensumstände abgedeckt werden können (juristisch übergreifend)
-             -2018 ist die Erhebung personenbezogener Daten mittlerweile etabliert > gesellschaftlich üblich
+             - 2018 ist die Erhebung personenbezogener Daten mittlerweile etabliert > gesellschaftlich üblich
     
     3. Instrument:
-        -Auftragsverabreitungsvertrag: Art. 28 DSGVO
+        - Auftragsverabreitungsvertrag: Art. 28 DSGVO
         (auch für IT-Projekte wichtig!)
-          -Aufbau:
-            1.Bezug zum EIGENTLICHEN Vertrag
-            2.Klausel zu personenbezogenen Daten
-            3.Aufsichtsbehörde zur Auftragnehmer und Auftraggeber (bspw. Datenschutzbehörde Berlin / Sachsen)
-            4.Weisungsrecht:
-                -charakterisiert den Vertrag
-                -Anweisung/Richtlinien zu technischen Schutzmaßnahmen ($6)
-                     -Anspruch: mit den Daten, die weisungsbefugt weitergegeben werden, sollen vertraulich behandelt werden
-            5.Informationsplfichten des Auftreagnehmers($7)
-            6.Kontrollrecht des Auftraggebers (§8)
-            7.Einsatz von Subunternehmen ($9)
-                -nur mit Einstimmung mit Auftraggeber!
-            8.Anfrage und Rechte des Betroffenen(§10)
-            9.Haftung($11)
-            10.Kündigung($12)
-                    -bspw. bei Beendigung von Hauptvertrag
+          - Aufbau:
+            1. Bezug zum EIGENTLICHEN Vertrag
+            2. Klausel zu personenbezogenen Daten
+            3. Aufsichtsbehörde zur Auftragnehmer und Auftraggeber (bspw. Datenschutzbehörde Berlin / Sachsen)
+            4. Weisungsrecht:
+                - charakterisiert den Vertrag
+                - Anweisung/Richtlinien zu technischen Schutzmaßnahmen ($6)
+                     - Anspruch: mit den Daten, die weisungsbefugt weitergegeben werden, sollen vertraulich behandelt werden
+            5. Informationsplfichten des Auftreagnehmers($7)
+            6. Kontrollrecht des Auftraggebers (§8)
+            7. Einsatz von Subunternehmen ($9)
+                - nur mit Einstimmung mit Auftraggeber!
+            8. Anfrage und Rechte des Betroffenen(§10)
+            9. Haftung($11)
+            10. Kündigung($12)
+                - bspw. bei Beendigung von Hauptvertrag
                     
-        -Beispiel 1:
-            -Cloud-Verarbeitungsdienste 
-                -bspw. Google
-                -auch dort muss Auftragsverarbeitungsvertrag geschlossen werden (wird üblicherweise miterhoben)
+        - Beispiel 1:
+            - Cloud-Verarbeitungsdienste 
+                - bspw. Google
+                - auch dort muss Auftragsverarbeitungsvertrag geschlossen werden (wird üblicherweise miterhoben)
                 
-         -Beispiel 2:
-                -Mitarbeiter der HTW
-                -Personalakte der HTW wird digitalisiert
-                -Firma wird beauftragt
-                -Mitarbeiter der Firma (Dritte) werden mit personenbezogenen Daten in Berührung gebracht
-                -Einwilligung des Mitarbeiter der HTW muss vorliegen!
-                -für Erfüllung des Arbeitsvertrages darf HTW Daten verarbeiten
-                -aber liegt die Weitergabe der Daten im Interesse der Betroffenen? > im Sinne des wirtschaftlichen Interesses der HTW
-                -Weitergabe braucht explizit eine Einwillgung
-                 > hier greift Auftragsverarbeitungsvertrag mit Auftragsnehmer 
-                    - Mitarbeiter der HTW muss über das Weitergeben der Daten seitens der HTW abgesichert sein > Firma muss Vertrag unterschreiben, sodass sie rechtlich gesehen das selbe Vertrauensverhältnis wie die HTW ggn.über dem Mitarbeiter hat > Art. 6,1 b-f! (kann sich dann auch, wie die HTW, auf die Rechtsgrundlagen beziehen) > Vetrauensverhältnis mit Subunternehmer muss gewahrt werden    
-        -ENTWEDER Einwillgung ODER rechtliche Grundlage > Einwilligung suggeriert, dass rechtliche Grundlage nicht vorhanden ist > selbst für Cookies geltend
-        -Datenschutzinformation nicht zu verwechseln mit Datenschutzeinwilligung!
+         - Beispiel 2:
+            - Mitarbeiter der HTW
+                - Personalakte der HTW wird digitalisiert
+                - Firma wird beauftragt
+                - Mitarbeiter der Firma (Dritte) werden mit personenbezogenen Daten in Berührung gebracht
+                - Einwilligung des Mitarbeiter der HTW muss vorliegen!
+                - für Erfüllung des Arbeitsvertrages darf HTW Daten verarbeiten
+                - aber liegt die Weitergabe der Daten im Interesse der Betroffenen? > im Sinne des wirtschaftlichen Interesses der HTW
+                - Weitergabe braucht explizit eine Einwillgung
+                    > hier greift Auftragsverarbeitungsvertrag mit Auftragsnehmer 
+                    - Mitarbeiter der HTW muss über das Weitergeben der Daten seitens der HTW abgesichert sein
+                    - > Firma muss Vertrag unterschreiben, sodass sie rechtlich gesehen das selbe Vertrauensverhältnis wie die HTW ggn.über dem Mitarbeiter hat
+                    - > Art. 6,1 b-f! (kann sich dann auch, wie die HTW, auf die Rechtsgrundlagen beziehen)
+                    - > Vetrauensverhältnis mit Subunternehmer muss gewahrt werden    
+        - ENTWEDER Einwillgung ODER rechtliche Grundlage 
+            > Einwilligung suggeriert, dass rechtliche Grundlage nicht vorhanden ist > selbst für Cookies geltend
+        - Datenschutzinformation nicht zu verwechseln mit Datenschutzeinwilligung!
                     
-            
-                    
-
 # Verträge
 
 - Projektverträge
 - Aufhebungsverträge
+- Vertragsstrafe muss zwingend unter Wert des Vertrages sein (20-25% Wert sind im grünen Bereich)
+- Hauptvertragsbestandteile müssen immer geklärt sein, bevor ein Vertrag gilt
 
 ## Kündigung
 
@@ -225,5 +261,3 @@ _Datum: 13.04.2018_
 > Punkte für beide Parteien (**auflösende Bedingungen**) können auch von bestimmten Personen abhängen, **§313 BGB**
 
 > **Beide** Parteien haben nach in Kraft treten der Änderung 4 Wochen Zeit, den Vertrag nach Bekanntgabe ggf. zu beenden ("Anbieter" hätte hier sozusagen ein "Schlupfloch"!)
-
-
