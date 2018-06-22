@@ -20,6 +20,62 @@ _Datum: 13.04.2018_
 - Dozent wird Gesetze vorlegen
 - man darf selbst kein Material mitbringen
 
+
+# Vertragliche Fehler
+
+- fehlende Zielplanung und fehlende Zielsetzung 
+  - (Ziele sollten im Vorraus feststehen)
+  - "Gedanken über Zweckmäßigkeit der Beschaffung > aktuelle Trends"
+  - soweit AG nicht genau weiß, was er will, kann er die Leistungen des AN nicht einschätzen! (Zieldefinition unsicher)
+  - Probleme sollten zielorientiert gelöst werden
+  - führt zu Unzufriedenheit des AN -> Verminderte Kommunikationsqualität -> notfalls Kündigung (Unzufriedenheit bzgl. vermindertem         Progress der Arbeit ("Geldverbrennung"))
+  - es sollte mind. eine Richtlinie vorliegen! (bspw. bzgl. Datenschutz)
+  
+- fehlende Projektstrukturen
+  - übereiliges Agieren führt zu Fehlern
+  - IT-Projekte sollten in einem "Step-by-Step-Verfahren" realisiert werden
+  - AG sollte darauf achten, dass diese vorhanden sind (Vorraussetzungen, Kommunkation, etc.) > Modellhafte Überlegungen
+  - fehlende Strukturen führen zu erschwerten Abstimmungsprozessen (Verständnis/Vorbereitung des AN zb kann fehlen, Missverständnisse,       Verzögerung, AN muss Strukturen selbst schaffen...) -> zusätzlicher Aufwand und zusätzliche Kosten!
+  - Kommunikation mit Fachabteilung von Vorteil, optimalerweise arbeiten AG UND AN strukturell abgestimmt
+  - Realisierung sollte nicht vor Planung entstehen! 
+  - Probleme können zu Vertrauensverlust der Parteien führen > Chaoswelle
+  - notfalls sollte mit der Geschäftsführung die Projektstrukturen klären
+  - nicht messbare Ergebnisse schwierig!
+  - Projekt sollte in Phasen eingeteilt werden ( bspw. Wasserfall-Modell) > nach "Abnahme einer Phase" kann man Teilerfolge vernehmen >     dem AG signalisieren > Teilabnahmen ("Arbeit war nicht umsonst")
+  - sowohl das klassische als auch das agile Projektmanagement greifen hier immer weiter in einander > einzelne Phasen werden regemäßig     abgenommen
+  - alternativ: Anleitung/Begleitung des AG durch das Projekt (vorteilhaft, auch rechtlich: verschiedene Vertragsarten bestimmen             spezielle Ziele: 
+      - bspw. Projektvertrag - Zielsetzung: vordefinierter Erfolg
+                                           - wenn jede Phase mit Teilergebnis definiert
+                                           - nach der Abnahme (durch Werkvertrag) : für Phase rechtlich Teilbetrag einforderbar
+                                           - bspw. Erstellung einer Website:
+                                                    - 1. konzept
+                                                    - 2. Entwurf
+                                                    - 3. Realisierung
+                                                    > Übereignung von Nutzungsrechten einer Website nur bei vollständiger Zahlung, bis                                                         zur letzten Phase (kann man rechtlich festlegen)
+                                            
+      - Agiler Projektvertrag - Zielsetzung: - Ziel noch unsicher
+                                             - Projekt in Richtung Forschung/Entwicklung
+                                             - Vertragsverhältnis eher als Tätigkeit als Erfolg!
+                                             - AN nicht für "nicht definierten Erfolg" haftbar
+                                             
+   - Phasenaufteilung Baustein in der wirtschaftlich - rechtlichen Absicherung eines Projekts!
+   - Phasen sollten sinnvoll aufgeteilt sein (nicht mangelhaft (zu große einzelne Abschnitte), und nicht übermäßig (bspw. täglich!))
+  
+ - Fehlende und unzureichende Leistungsbeschreibung
+    - enthält die Software alle Funktionen?
+    - sowohl für AG als auch AN risikoträchtig > unklarer Vertragsgegenstand
+    - Lösung: Lastenheft (DIN 695) & Pflichtenheft
+    - soweit Kunde Lastenheft nicht anfertigen kann : Sachverhalte ggf. selber klären (rechtlich gesehen: Beratungsleistung)
+        - Beratervertrag: Dienstleistungsvertrag (auch in Rechnung stellbar)
+        - rechtlich Anleiten, dass für das Beraten auch ein DLV nötig ist (Lastenheft nicht selbst für Kunden erstellen > nicht mit               eigener Zielsetzung übernehemen!) > AN kann dagegen vorgehen 
+        - Vertragsanbahnungskosten : Rechnung/Kosten, die nicht spezifisch im Vertrag geklärt wurden (rechtlich gesehen sind diese vorm           Gericht nichtig)
+    - bis zu 65% der Zeit verbringen IT-Projektzeiten mit der Beratung von Kunden!
+      > Beratervertrag dem Projektvertrag voranstellen, sodass "Wünsche" erst einmal geklärt sind
+      > optimalerweise sollte dann auch der Projektvertrag eine Beratungsklausel haben > wird im Projekt ggf. öfter vorkommen, auch die         Beratung sollte ausgezahlt werden
+    - nach Erstellung des Lastenheftes : Pflichtenheft
+    
+    
+    
 # Vorvertragliche Phase
 
 - vertragliche Vertrauensgrundlage mit Kunden schaffen -> Schadensersatz 
