@@ -68,11 +68,11 @@ _Datum: 13.04.2018_
     - Lösung: Lastenheft (DIN 695) & Pflichtenheft
     - soweit Kunde Lastenheft nicht anfertigen kann : Sachverhalte ggf. selber klären (rechtlich gesehen: Beratungsleistung)
       - Beratervertrag: Dienstleistungsvertrag (auch in Rechnung stellbar)
-      - rechtlich Anleiten, dass für das Beraten auch ein DLV nötig ist (Lastenheft nicht selbst für Kunden erstellen --> nicht mit eigener Zielsetzung übernehemen!) > AN kann dagegen vorgehen 
+      - rechtlich Anleiten, dass für das Beraten auch ein DLV nötig ist (Lastenheft nicht selbst für Kunden erstellen --> nicht mit eigener Zielsetzung übernehemen!) --> AN kann dagegen vorgehen 
         - Vertragsanbahnungskosten : Rechnung/Kosten, die nicht spezifisch im Vertrag geklärt wurden (rechtlich gesehen sind diese vorm           Gericht nichtig)
     - bis zu 65% der Zeit verbringen IT-Projektzeiten mit der Beratung von Kunden!
       > Beratervertrag dem Projektvertrag voranstellen, sodass "Wünsche" erst einmal geklärt sind
-      > optimalerweise sollte dann auch der Projektvertrag eine Beratungsklausel haben > wird im Projekt ggf. öfter vorkommen, auch die         Beratung sollte ausgezahlt werden
+      > optimalerweise sollte dann auch der Projektvertrag eine Beratungsklausel haben --> wird im Projekt ggf. öfter vorkommen, auch die Beratung sollte ausgezahlt werden
     - nach Erstellung des Lastenheftes : Pflichtenheft
     
     
