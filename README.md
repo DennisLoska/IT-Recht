@@ -44,7 +44,8 @@ _Datum: 13.04.2018_
   - Projekt sollte in Phasen eingeteilt werden ( bspw. Wasserfall-Modell) > nach "Abnahme einer Phase" kann man Teilerfolge vernehmen >     dem AG signalisieren > Teilabnahmen ("Arbeit war nicht umsonst")
   - sowohl das klassische als auch das agile Projektmanagement greifen hier immer weiter in einander > einzelne Phasen werden regemäßig     abgenommen
   - alternativ: Anleitung/Begleitung des AG durch das Projekt (vorteilhaft, auch rechtlich: verschiedene Vertragsarten bestimmen spezielle Ziele: 
-   - bspw. Projektvertrag 
+   - bspw. Projektvertrag
+     - Erstellung Pflichtenheft 
      - Zielsetzung: vordefinierter Erfolg
      - wenn jede Phase mit Teilergebnis definiert
      - nach der Abnahme (durch Werkvertrag) : für Phase rechtlich Teilbetrag einforderbar
@@ -74,9 +75,37 @@ _Datum: 13.04.2018_
       > Beratervertrag dem Projektvertrag voranstellen, sodass "Wünsche" erst einmal geklärt sind
       > optimalerweise sollte dann auch der Projektvertrag eine Beratungsklausel haben --> wird im Projekt ggf. öfter vorkommen, auch die Beratung sollte ausgezahlt werden
     - nach Erstellung des Lastenheftes : Pflichtenheft
-    
-    
-    
+
+
+# Pflichten- und Lastenheft
+
+## Lastenheft
+
+- Lastenheft wird vom Auftraggeber erstellt
+- Aus dem Lastenheft soll ein Pflichtenheft gemacht werden (eigentlich Aufgabe des Auftraggebers, aber in der Realität machen wir das)
+ - dies wird unbedingt in Rechnung erstellt (Urteil 25.06.93 - OLG Köln)
+
+## Pflichtenheft
+
+- sehr konkrete Abhandlung der einzelnen Schritte/Leistungen
+- Auftraggeber muss es erstellen - durch Gerichtsurteil bekräftigt (25.06.93 - OLG Köln)
+- Auftraggeber hat Mitwirkungspflicht bei Erstellung des Pflichtenhefts
+  - Arbeitgeber muss innerbetriebliche Bedürfnisse ermitteln
+  - Organisationsvorschläge einräumen usw.
+  - konkrete Bedürfnisse unaufgefordert mitteilen, ansonsten sind fehlende Features keine Mängel
+- Man kann Mitwirkungspflicht im Vertrag festhalten, um Druck auszuüben, nicht unbedingt um auf Grund dessen den Vertrag aufzulösen
+- wenn Leistung nicht konkret definiert ist, wird richterlich das geschuldet, was "mittlerer Art und Güte ist"
+ - wird durch Sachverständigen/Gutachter entschieden im Gerichtsfall
+
+# Umfeldfaktoren/Bewertungskriterien für Projektumsetzung
+ - Unternehmensstruktur
+ - am IT-Projekt beteiligten Personen
+ - Beteiligung Dritter
+ - kulturelle Unterschiede (z.B. Hierarchie)
+ - Nationalität
+ - Nutzen für Endanwender klären
+ - unzureichende Aufwandsschätzungen --> oft, da Kosten kleingerechnet werden, um Projekt genehmigt zu bekommen
+
 # Vorvertragliche Phase
 
 - vertragliche Vertrauensgrundlage mit Kunden schaffen -> Schadensersatz 
