@@ -43,20 +43,21 @@ _Datum: 13.04.2018_
   - nicht messbare Ergebnisse schwierig!
   - Projekt sollte in Phasen eingeteilt werden ( bspw. Wasserfall-Modell) > nach "Abnahme einer Phase" kann man Teilerfolge vernehmen >     dem AG signalisieren > Teilabnahmen ("Arbeit war nicht umsonst")
   - sowohl das klassische als auch das agile Projektmanagement greifen hier immer weiter in einander > einzelne Phasen werden regemäßig     abgenommen
-  - alternativ: Anleitung/Begleitung des AG durch das Projekt (vorteilhaft, auch rechtlich: verschiedene Vertragsarten bestimmen             spezielle Ziele: 
-      - bspw. Projektvertrag - Zielsetzung: vordefinierter Erfolg
-                                           - wenn jede Phase mit Teilergebnis definiert
-                                           - nach der Abnahme (durch Werkvertrag) : für Phase rechtlich Teilbetrag einforderbar
-                                           - bspw. Erstellung einer Website:
-                                                    - 1. konzept
-                                                    - 2. Entwurf
-                                                    - 3. Realisierung
-                                                    > Übereignung von Nutzungsrechten einer Website nur bei vollständiger Zahlung, bis                                                         zur letzten Phase (kann man rechtlich festlegen)
-                                            
-      - Agiler Projektvertrag - Zielsetzung: - Ziel noch unsicher
-                                             - Projekt in Richtung Forschung/Entwicklung
-                                             - Vertragsverhältnis eher als Tätigkeit als Erfolg!
-                                             - AN nicht für "nicht definierten Erfolg" haftbar
+  - alternativ: Anleitung/Begleitung des AG durch das Projekt (vorteilhaft, auch rechtlich: verschiedene Vertragsarten bestimmen spezielle Ziele: 
+   - bspw. Projektvertrag 
+    - Zielsetzung: vordefinierter Erfolg
+    - wenn jede Phase mit Teilergebnis definiert
+    - nach der Abnahme (durch Werkvertrag) : für Phase rechtlich Teilbetrag einforderbar
+    - bspw. Erstellung einer Website:
+     - 1. konzept
+     - 2. Entwurf
+     - 3. Realisierung
+     > Übereignung von Nutzungsrechten einer Website nur bei vollständiger Zahlung, bis                                                         zur letzten Phase (kann man rechtlich festlegen)
+    - Agiler Projektvertrag - Zielsetzung: 
+     - Ziel noch unsicher
+     - Projekt in Richtung Forschung/Entwicklung
+     - Vertragsverhältnis eher als Tätigkeit als Erfolg!
+     - AN nicht für "nicht definierten Erfolg" haftbar
                                              
    - Phasenaufteilung Baustein in der wirtschaftlich - rechtlichen Absicherung eines Projekts!
    - Phasen sollten sinnvoll aufgeteilt sein (nicht mangelhaft (zu große einzelne Abschnitte), und nicht übermäßig (bspw. täglich!))
