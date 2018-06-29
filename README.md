@@ -45,19 +45,19 @@ _Datum: 13.04.2018_
   - sowohl das klassische als auch das agile Projektmanagement greifen hier immer weiter in einander > einzelne Phasen werden regemäßig     abgenommen
   - alternativ: Anleitung/Begleitung des AG durch das Projekt (vorteilhaft, auch rechtlich: verschiedene Vertragsarten bestimmen spezielle Ziele: 
    - bspw. Projektvertrag 
-    - Zielsetzung: vordefinierter Erfolg
-    - wenn jede Phase mit Teilergebnis definiert
-    - nach der Abnahme (durch Werkvertrag) : für Phase rechtlich Teilbetrag einforderbar
-    - bspw. Erstellung einer Website:
-     - 1. konzept
-     - 2. Entwurf
-     - 3. Realisierung
-     > Übereignung von Nutzungsrechten einer Website nur bei vollständiger Zahlung, bis                                                         zur letzten Phase (kann man rechtlich festlegen)
+     - Zielsetzung: vordefinierter Erfolg
+     - wenn jede Phase mit Teilergebnis definiert
+     - nach der Abnahme (durch Werkvertrag) : für Phase rechtlich Teilbetrag einforderbar
+     - bspw. Erstellung einer Website:
+      - 1. konzept
+      - 2. Entwurf
+      - 3. Realisierung
+      > Übereignung von Nutzungsrechten einer Website nur bei vollständiger Zahlung, bis                                                         zur letzten Phase (kann man rechtlich festlegen)
     - Agiler Projektvertrag - Zielsetzung: 
-     - Ziel noch unsicher
-     - Projekt in Richtung Forschung/Entwicklung
-     - Vertragsverhältnis eher als Tätigkeit als Erfolg!
-     - AN nicht für "nicht definierten Erfolg" haftbar
+      - Ziel noch unsicher
+      - Projekt in Richtung Forschung/Entwicklung
+      - Vertragsverhältnis eher als Tätigkeit als Erfolg!
+      - AN nicht für "nicht definierten Erfolg" haftbar
                                              
    - Phasenaufteilung Baustein in der wirtschaftlich - rechtlichen Absicherung eines Projekts!
    - Phasen sollten sinnvoll aufgeteilt sein (nicht mangelhaft (zu große einzelne Abschnitte), und nicht übermäßig (bspw. täglich!))
@@ -67,8 +67,8 @@ _Datum: 13.04.2018_
     - sowohl für AG als auch AN risikoträchtig > unklarer Vertragsgegenstand
     - Lösung: Lastenheft (DIN 695) & Pflichtenheft
     - soweit Kunde Lastenheft nicht anfertigen kann : Sachverhalte ggf. selber klären (rechtlich gesehen: Beratungsleistung)
-        - Beratervertrag: Dienstleistungsvertrag (auch in Rechnung stellbar)
-        - rechtlich Anleiten, dass für das Beraten auch ein DLV nötig ist (Lastenheft nicht selbst für Kunden erstellen > nicht mit               eigener Zielsetzung übernehemen!) > AN kann dagegen vorgehen 
+      - Beratervertrag: Dienstleistungsvertrag (auch in Rechnung stellbar)
+      - rechtlich Anleiten, dass für das Beraten auch ein DLV nötig ist (Lastenheft nicht selbst für Kunden erstellen --> nicht mit eigener Zielsetzung übernehemen!) > AN kann dagegen vorgehen 
         - Vertragsanbahnungskosten : Rechnung/Kosten, die nicht spezifisch im Vertrag geklärt wurden (rechtlich gesehen sind diese vorm           Gericht nichtig)
     - bis zu 65% der Zeit verbringen IT-Projektzeiten mit der Beratung von Kunden!
       > Beratervertrag dem Projektvertrag voranstellen, sodass "Wünsche" erst einmal geklärt sind
