@@ -367,6 +367,7 @@ Strafzahlungen
   - **Rechtsbindungswille (RBW) besteht aus folgenden 3 Teilen:**
     1. Handlungswille (Schlaf, Hypnose, Reflexe stehen hier außen vor!)
     2. Erklärungsbewusstsein ( wenn grundsätzl. **negativ -**, dann folgt Frage nach objektiver Sorgfalt & Anfechtungsrecht)
+       <br>
        -Beispiel Grüßen bei einer Auktion: Anfechtung in best. Frist möglich, ansonsten ist Grüßender vertraglich an Auktionsvertrag             gebunden!
       
     3. (Geschäftswille)) - nicht zwingende Vorraussetzung
