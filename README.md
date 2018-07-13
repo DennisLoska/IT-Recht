@@ -354,7 +354,7 @@ Strafzahlungen
 
 # Schuldverhältnis
 - durch Rechtsgeschäft/Vertrag (willentlich)
-- durch Gesetz (nicht freiwillig - z.B. bei Unfall Schadensersatz)
+- durch Gesetz (nicht freiwillig - z.B. bei Unfall Schadensersatz, Elternschaft)
 
 ## **Vertrag**
 
@@ -365,8 +365,10 @@ Strafzahlungen
   - = **innerer Erklärungstatbestand** der Willenserklärung --> zum Schutz des Erklärenden da
 - private Willensäußerung auf das Herbeiführen einer **Rechtsfolge** gerichtet
   - **Rechtsbindungswille (RBW) besteht aus folgenden 3 Teilen:**
-    1. Handlungswille
+    1. Handlungswille (Schlaf, Hypnose, Reflexe stehen hier außen vor!)
     2. Erklärungsbewusstsein ( wenn grundsätzl. **negativ -**, dann folgt Frage nach objektiver Sorgfalt & Anfechtungsrecht)
+       -Beispiel Grüßen bei einer Auktion: Anfechtung in best. Frist möglich, ansonsten ist Grüßender vertraglich an Auktionsvertrag             gebunden!
+      
     3. (Geschäftswille)) - nicht zwingende Vorraussetzung
 - **Angebot** = zeitlich 1. Willenserklärung
 - **Annahme** = zeitlich 2. Willenserklärung
