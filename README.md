@@ -307,6 +307,10 @@ Strafzahlungen
                     
 # Verträge
 
+## Allgemein
+
+**Ein Vertrag besteht aus mindestens 2 übereinstimmenden Willenserklärungen.**
+
 - Projektverträge
 - Aufhebungsverträge
 - Vertragsstrafe muss zwingend unter Wert des Vertrages sein (20-25% Wert sind im grünen Bereich)
@@ -348,6 +352,37 @@ Strafzahlungen
 
 > **Beide** Parteien haben nach in Kraft treten der Änderung 4 Wochen Zeit, den Vertrag nach Bekanntgabe ggf. zu beenden ("Anbieter" hätte hier sozusagen ein "Schlupfloch"!)
 
+# Schuldverhältnis
+- durch Rechtsgeschäft/Vertrag (willentlich)
+- durch Gesetz (nicht freiwillig - z.B. bei Unfall Schadensersatz)
+
+## **Vertrag**
+
+- 2 übereinstimmende Willenserklärungen
+- Willensäußerung kann **ausdrücklich** (schriftlich oder mündlich) entstehen
+- Willensäußerung kann **schlüssig/konkludent** entstehen (Gestik / Mimik)
+  - = **äußerer Erklärungstatbestand** der Willenserklärung --> zum Schutz des Erklärungsempfängers
+  - = **innerer Erklärungstatbestand** der Willenserklärung --> zum Schutz des Erklärenden da
+- private Willensäußerung auf das Herbeiführen einer **Rechtsfolge** gerichtet
+  - **Rechtsbindungswille (RBW) besteht aus folgenden 3 Teilen:**
+    1. Handlungswille
+    2. Erklärungsbewusstsein ( wenn grundsätzl. **negativ -**, dann folgt Frage nach objektiver Sorgfalt & Anfechtungsrecht)
+    3. (Geschäftswille)) - nicht zwingende Vorraussetzung
+- **Angebot** = zeitlich 1. Willenserklärung
+- **Annahme** = zeitlich 2. Willenserklärung
+
+**Angebot** = zeitlich 1. Willenserklärung
+- wesentliche _Vertragsbestandteile_ **müssen klar sein** - können je Vertragstyp angepasst werden
+  - Leistung
+  - Gegenleistung
+  - Vertragsparteien
+- nur durch **"JA"** Vertrag zustande zu bringen
+
+**Annahme** = zeitlich 2. Willenserklärung
+
+- muss vorbehaltlos sein
+- - Wenn 2. Willenserklärung ein neues Angebot ist, dann ist das 1. Angebot hinfällig (§ 150 BGB Absatz 2)
+
 # BGB - Bürgerliches Gesetzbuch
 
 ## §1 BGB Rechtsfähigkeit
@@ -384,3 +419,21 @@ Strafzahlungen
      - bei Kündigung
      - bei Verjährung
   3. Anspruch durchsetzbar
+
+## $ 311 Absatz 1 BGB Vertrag sui generis/Vertrag eigener Art
+
+- Grundsatz der Privatautonomie (Man selbst entscheidet über sein Eigentum)
+- Grundsatz der Formfreiheit, bis auf Ausnahmen wie z.B. bei Grundstücksverkauf (Schriftform)
+- Grundsatz, dass Schweigen keine Willenserklärung ist / kein rechtserhebliches Verhalten ist
+
+## § 241 Absatz 1 BGB
+
+### Schuldner VS Gläubiger
+- Schuldner <--> Gläubiger
+- Gläubiger ist berechtigt die Leistung einzufordern
+- Schuldner muss die Leistung erbringen
+
+# Prüfung
+
+- Dienstvertrag und nicht Dienstleistungsvertrag § 611 BGB
+
