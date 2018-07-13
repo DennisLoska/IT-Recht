@@ -347,3 +347,40 @@ Strafzahlungen
 > Punkte für beide Parteien (**auflösende Bedingungen**) können auch von bestimmten Personen abhängen, **§313 BGB**
 
 > **Beide** Parteien haben nach in Kraft treten der Änderung 4 Wochen Zeit, den Vertrag nach Bekanntgabe ggf. zu beenden ("Anbieter" hätte hier sozusagen ein "Schlupfloch"!)
+
+# BGB - Bürgerliches Gesetzbuch
+
+## §1 BGB Rechtsfähigkeit
+
+- Fähigkeit Träger von Rechten & Pflichten zu sein
+
+## §104 ff. BGB Geschäftsfähigkeit
+
+- 7-18 Jahre beschränkt Geschäftsfähig
+- ab vollendetem 18. Lebensjahr voll geschäftsfähig
+
+## §13 BGB Verbraucher
+
+- natürliche Person
+- handelt nicht zu gewerblichen Zwecken
+
+## §14 BGB 
+
+- natürliche oder juristische Person
+- handelt gerade zu erwerblichen Zwecken
+
+## Wer will was von wem woraus (**AsgL - Anspruchsgrundlage**)?
+
+- "Anspruch" --> § 194 1. BGB
+
+  Eine **Anspruchsprüfung** untersucht diese drei Punkte: 
+
+  1. Anspruch entstanden
+     - bei Vertragsabschluss
+  2. Anspruch erloschen
+     - bei Vertragserfüllung
+     - bei Rücktritt
+     - bei Widerruf
+     - bei Kündigung
+     - bei Verjährung
+  3. Anspruch durchsetzbar
