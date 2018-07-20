@@ -439,4 +439,72 @@ Strafzahlungen
 # Prüfung
 
 - Dienstvertrag und nicht Dienstleistungsvertrag § 611 BGB
+- Was ist bei einem IT-Projekt wichtig?
+  - **IST-Analyse**
+    - Ausgangssituation analysieren
+    - Welche Verträge/Verhältnisse gibt es bereits
+    - Stehen sie zuwider, passen sie zum Projekt?
+  - **Umgang mit Altverträgen**
+    - Beendigungsmöglichkeiten von Verträgen für diese Situation
+    - **Aufhebungsvertrag** (Service wird nicht mehr gebraucht)
+    - soll so gestaltet werden, dass beide Parteien zufrieden sind (Kompromiss verhandeln) Win-Win-Situation erschaffen
+    - beidseitige Willenserklärung notwendig
+    - **Kündigung**
+      - **ordentliche Kündigung nach Frist**
+        - Wo findet man diese? Vertrag --> AGB --> Gesetz (speziell nach allgemein)
+        - über 6 Monate frist sollten rechtlich geprüft werden (zu lange Fristen rechtsunwirksam)
+      - **außerordentliche Kündigung aus wichtigem Grund**
+        - keine Frist - unverzüglich
+        - wichtiger Grund (in Sphäre der anderen Vertragspartei)
+        - in Vertrag wichtige Kündigungsgründe nennen
+          - nicht Zahlung von Rechnung
+          - nicht Erfüllung von Pflichten
+      - **Anfechtung wegen Irrtum §119/120 BGB**
+        - muss unverzüglich erfolgen
+        - §321 BGB Unsicherheitseinrede Partner gerät in finanzielle Schieflage
+      - **§313 Störung der Geschäftsgrundlage**
+          - nach Vertragsabschluss haben sich Umstände (Geschäftsgrundlage) geändert, welche nicht bekannt waren (ergibt Rücktrittsmöglichkeit) 
+          - Motivation für Vertrag und Zusammenarbeit in Präambel schreiben
+          - bei Gesetzesverstoß der
+  - **Wie schützt man Know-How**
+      - durch Gesetz - §18 BGB UWG unlauterer Wettbewerb  
+      - durch vertragliche Vereinbarung - NDA usw.
+      - Vertragsstrafen (dürfen nicht zu hoch sein)
+      - Urheberrecht
+      - gewerblicher Rechtschutz
+        - Patent, Gebrauchsmusterschutz
+        - Markenrecht (Patent und Markenamt)
+  - **§311 Abs. 2 vorvertragliche Vertrauensgrundlage**
+    - Rechte und Pflichten entstehen schon durch vorvertragliche Gespräche
+  - **Datenschutz**
+    - **Auftragsverarbeitungsvertrag (AVV)**
+      - Auftraggeber erhebt Daten
+      - durch AVV verpflichte ich mich dasselbe Datenschutz-Level einzuhalten gegenüber denjenigen, deren Daten erhoben wurden, wie mein Auftraggeber
+      - Man ist wie eine Unterabteilung des Auftraggebers
+      - Auftraggeber hat Recht und Pflicht dies zu kontrollorien
+        - Verarbeitungsverzeichnis vorhanden?
+        - Risikoanalyse
+        - Umgang mit Daten informationstechnisch abgesichert
+    - **Datenschutzerklärung**
+      - Braucht man? Ja!
+      - Was muss drin stehen?
+        1. Welche Daten?
+        2. Zu welchem Zweck?
+        3. User muss unaufgefordert über seine Rechte informiert werden   
+        4. AVV mit Plugin-Anbietern wie Google usw. schließen
 
+   - **Fehler in IT-Projekten**
+     - fehlendes Änderungsmanagement
+     - Projektvertrag in Phasen aufteilen
+       -  Konzept, Entwurf, Fertigstellung
+       -  Abnahme und Teilrechnungen
+     - genaue Bezeichnung der Leistung
+       - Pflichten- und Lastenheft
+     - Stundenpreis, um Zusatzwünsche über Stunden abzurechnen
+      - 6 Minuten Abrechnungsmodus
+     - Umfeld genau prüfen
+    - **Nachvertragliche Phase**  
+      - Know-How aus Projekten veröffentlichen
+      - Wartungs- und Pflegeverträge
+        - besondere Vertrauensverhältnisse
+        - weitere Aufträge - Kundenbindung   
