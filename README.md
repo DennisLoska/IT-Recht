@@ -508,8 +508,8 @@ Strafzahlungen
       - arbeitet der AG mit? Stellt er Ressourcen/Inhalte bereit oder fehlen diese? - fehlende Mitwirkungspflicht
     - **Nachvertragliche Phase**  
       - Know-How aus Projekten veröffentlichen
-       - Schulungen
-       - Publikationen
+        - Schulungen
+        - Publikationen
         
       - Wartungs- und Pflegeverträge
         - besondere Vertrauensverhältnisse
