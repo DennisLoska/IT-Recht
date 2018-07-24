@@ -467,7 +467,7 @@ Strafzahlungen
           - Motivation für Vertrag und Zusammenarbeit in Präambel schreiben
           - bei Gesetzesverstoß der
   - **Wie schützt man Know-How**
-      - durch Gesetz - §18 BGB UWG unlauterer Wettbewerb  
+      - durch Gesetz - §18 BGB UWG unlauterer Wettbewerb  (Unterlagen aus geschäftl. Austausch dürfen nicht publik gemacht werden)
       - durch vertragliche Vereinbarung - NDA usw.
       - Vertragsstrafen (dürfen nicht zu hoch sein)
       - Urheberrecht
@@ -479,6 +479,7 @@ Strafzahlungen
   - **Datenschutz**
     - **Auftragsverarbeitungsvertrag (AVV)**
       - Auftraggeber erhebt Daten
+      - ist eine Rechtslückenschließung
       - durch AVV verpflichte ich mich dasselbe Datenschutz-Level einzuhalten gegenüber denjenigen, deren Daten erhoben wurden, wie mein Auftraggeber
       - Man ist wie eine Unterabteilung des Auftraggebers
       - Auftraggeber hat Recht und Pflicht dies zu kontrollorien
@@ -486,12 +487,13 @@ Strafzahlungen
         - Risikoanalyse
         - Umgang mit Daten informationstechnisch abgesichert
     - **Datenschutzerklärung**
-      - Braucht man? Ja!
+      - Braucht man? Ja! (zB. auch Website)
       - Was muss drin stehen?
-        1. Welche Daten?
+        1. Welche Daten? (zB. Userdaten)
         2. Zu welchem Zweck?
         3. User muss unaufgefordert über seine Rechte informiert werden   
-        4. AVV mit Plugin-Anbietern wie Google usw. schließen
+        4. AVV mit Plugin-Anbietern wie Google usw. schließen  
+      - bspw. bei Verletzung des Datenschutzes eines Unternehmens eines Konzerns - Unternehmen haftet allein stellend
 
    - **Fehler in IT-Projekten**
      - fehlendes Änderungsmanagement
@@ -503,8 +505,12 @@ Strafzahlungen
      - Stundenpreis, um Zusatzwünsche über Stunden abzurechnen
       - 6 Minuten Abrechnungsmodus
      - Umfeld genau prüfen
+      - arbeitet der AG mit? Stellt er Ressourcen/Inhalte bereit oder fehlen diese? - fehlende Mitwirkungspflicht
     - **Nachvertragliche Phase**  
       - Know-How aus Projekten veröffentlichen
+       - Schulungen
+       - Publikationen
+        
       - Wartungs- und Pflegeverträge
         - besondere Vertrauensverhältnisse
         - weitere Aufträge - Kundenbindung   
